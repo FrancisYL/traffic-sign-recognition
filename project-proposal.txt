@@ -1,0 +1,9 @@
+EECS 475 Machine Learning Final Project Proposal
+
+For the final project, we decided to try building a Traffic Sign Recognition System (TSR) which could be able to read a traffic sign and predict the class and meaning of this sign. The major approach to achieve TSR is using convolutional neural network.
+
+There already existed several labeled traffic sign datasets online which could be used as the training, validation and testing set for this project.
+
+To simplify the work we might use some existing code in data pre-processing, which mainly includes Computer Vision techniques and setup of convolutional neural network in Python.
+
+The performance of the trained model is evaluated based on the counts of misclassification through the testing dataset and several new images.
