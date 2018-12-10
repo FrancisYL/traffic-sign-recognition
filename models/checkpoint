@@ -1,0 +1,2 @@
+model_checkpoint_path: "SOLeNet_Grayscale_Normalized_3x3_Dropout_0.25.chkpt"
+all_model_checkpoint_paths: "SOLeNet_Grayscale_Normalized_3x3_Dropout_0.25.chkpt"
