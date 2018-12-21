@@ -1,7 +1,7 @@
 # traffic-sign-recognition
 
 ### Achievement
-We achieved a validation accuracy of 98.6% and a test accuracy of 97.3% on the dataset from the [German Traffic Sign Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
+We achieved a validation accuracy of 98.6% and a test accuracy of 97.3% on the dataset from the [German Traffic Sign Benchmark](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset).
 
 ### What & How
 In this project, we are going to build a Traffic Sign Recognition System through Deep Learning using Convolutional Neural Network (CNN).
